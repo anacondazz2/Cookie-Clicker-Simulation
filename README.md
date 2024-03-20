@@ -1,3 +1,5 @@
 # Cookie-Clicker-Simulation
-A cookie clicker simulation made in Greenfoot for ICS4U. Two sides fight to go to the moon!  
+A simulation of which side can make more cookies. Done in Greenfoot.  
+Adjustable initialization at start of simulation to control starting stats for each side.  
+Watch as two sides compete for the chance to go to the moon!
 By: Caden C., Eddie Z., Jonathan Z., and Patrick H.
