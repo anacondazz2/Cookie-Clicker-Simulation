@@ -4,7 +4,7 @@ A competitve simulation made on Greenfoot (Java Framework).
 Cookies are the new currency. The President has called for a mission to go the moon, but cookies are needed to fuel the rocket!  
 Watch as two opposing sides compete to see who can reach the milestone first.
 
-Starting configuration available.  
+Includes a customizable starting configuration for each side. 
 
 ## How to Run
 1. Download [Greenfoot](https://www.greenfoot.org/download).
