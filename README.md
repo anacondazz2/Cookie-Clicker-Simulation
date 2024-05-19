@@ -6,6 +6,9 @@ Watch as two opposing sides compete to see who can reach the milestone first.
 
 Includes a customizable starting configuration for each side. 
 
+Origina repo @ https://github.com/edz543/cookie-clicker-simulation
+Made by Eddie Zhuang, Jonathan Zhao, Caden Chan, Patrick Hu.
+
 ## How to Run
 1. Download [Greenfoot](https://www.greenfoot.org/download).
 
